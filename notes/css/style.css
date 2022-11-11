@@ -3,7 +3,6 @@ body{
     font-family: 'Roboto Slab', serif;
     margin: 0 auto;
     width: 1400px;
-    
 }
 .main{
     background-color: azure;
@@ -23,7 +22,6 @@ body{
 .main-content{
     font-size: 13px;
     margin-left: 10px;
-   
 }
 .name{
     margin-left: 50px;
@@ -45,12 +43,13 @@ body{
      margin: 15px 15px;
 }
 .text-items{
-    display: flex; 
-    justify-content: flex-start;
+    /* display: flex; 
+    justify-content: flex-start; */
+    list-style: none;
     font-size: 14px;
     font-style: italic;
     font-weight: bold;
-    text-align:left;
+    text-align:start;
     width: 250px;
     margin: 10px;
     border: 0.5px solid rgb(94, 86, 86);

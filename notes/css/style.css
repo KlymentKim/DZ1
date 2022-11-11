@@ -27,11 +27,10 @@ body{
     margin-left: 50px;
  }
  .line-item{
-   /* margin: 0; */
    justify-content: left;
    width: 1230px;
    margin-left: 50px;
-       
+         
  }
 .text {
     display: flex;

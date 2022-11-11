@@ -25,8 +25,14 @@ body{
 }
 .name{
     margin-left: 50px;
-    
-}
+ }
+ .line-item{
+   /* margin: 0; */
+   justify-content: left;
+   width: 1230px;
+   margin-left: 50px;
+       
+ }
 .text {
     display: flex;
     justify-content: space-around;
@@ -40,7 +46,7 @@ body{
 .content-list_7,
 .content-list_8,
 .content-list_9{
-     margin: 15px 15px;
+     margin: 10px 10px;
 }
 .text-items{
     /* display: flex; 

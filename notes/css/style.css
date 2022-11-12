@@ -3,9 +3,12 @@ body{
     font-family: 'Roboto Slab', serif;
     margin: 0 auto;
     width: 1400px;
+    
 }
 .main{
     background-color: azure;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+    padding-bottom: 20px;
 }
 
 .name-book{
@@ -62,17 +65,15 @@ body{
     box-shadow: 1px 1px 4px #000;
 }
 .footer{
-    margin: 50px 0 150px;
+    margin: 50px 0 300px;
 }
 .footer-content{
-    
-    flex-direction: row;
-    justify-content:end;
-}
-.footer-inner{
-    display: flex;
+    width: 1350px;
 }
 .footer-picture{
+    float:left;
     margin-left: 105px;
-   
+    padding-right: 15px;
+     
 }
+

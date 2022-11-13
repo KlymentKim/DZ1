@@ -16,17 +16,20 @@ body{
     justify-content: center;
     text-transform: uppercase;
 }
-.line{
+ .line, .line-item{
+    border-bottom: 0.5px solid #000;
+    opacity: 0.3;
     margin: 20px 40px;
-}
+} 
 .notes2{
     list-style: none;
     margin: 0;
 }
+
 .line-item, h3{
     justify-content: left;
     width: 1230px;
-    margin-left: 50px;
+    margin: 4px 60px 0;
 }
 .main-title{
     margin: 15px 40px;

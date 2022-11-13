@@ -51,8 +51,6 @@ body{
      margin: 10px 10px;
 }
 .text-items{
-    /* display: flex; 
-    justify-content: flex-start; */
     list-style: none;
     font-size: 14px;
     font-style: italic;
@@ -78,6 +76,5 @@ body{
     float:left;
     margin-left:  105px;
     padding-right: 15px;
-     
 }
 

@@ -65,14 +65,18 @@ body{
     box-shadow: 1px 1px 4px #000;
 }
 .footer{
-    margin: 50px 0 300px;
+    margin: 20px 0 20px;
+    background-color: azure;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+    
 }
 .footer-content{
     width: 1350px;
+    padding: 10px 0 10px;
 }
 .footer-picture{
     float:left;
-    margin-left: 105px;
+    margin-left:  105px;
     padding-right: 15px;
      
 }

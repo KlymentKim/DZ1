@@ -64,9 +64,6 @@ body{
 }
 .footer{
     margin: 20px 0 20px;
-    background-color: azure;
-    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
-    
 }
 .footer-content{
     width: 1350px;
